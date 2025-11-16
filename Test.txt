@@ -2,3 +2,4 @@ Armatur			Anlage		DN		Material		Hersteller		Preis
 Rückschlagklappe	Lyren		900		GGG50			Erhard			10000
 Motorklappe		Lyren		900		GGG50			VAG/Auma		12000
 Ringkolbenventil	Lengg		300		GJS-400-15		Erhard			20000
+Ausbaustück		Lyren		900		Edelstahl 1.4435	BOA Group		5000
